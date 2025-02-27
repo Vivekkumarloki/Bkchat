@@ -18,13 +18,13 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/amritraj78/KING-CHATBOT)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll)                         
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/AFK-HOTTY/nainxchatbot)  
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [费兹先生](https://t.me/Nainsupport)                         
 ╚═════════════════╝
 **"""
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/ll_KINGDOM_ll).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/Nainsupport).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
@@ -51,7 +51,7 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [费兹先生](https://t.me/Nainsupport) 💞**
 """
 
 CHATBOT_READ = f"""**
@@ -75,10 +75,10 @@ CHATBOT_READ = f"""**
 ──────────────
 ➻ /idclone [ ᴩʏʀᴏɢʀᴀᴍ ꜱᴛʀɪɴɢ ꜱᴇꜱꜱɪᴏɴ ] - ᴛᴏ ᴍᴀᴋᴇ ɪᴅ-ᴄʜᴀᴛʙᴏᴛ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [费兹先生](https://t.me/Nainsupport) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/amritraj78/KING-CHATBOT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [˹𝐊ɪɴɢᴅᴏᴍ˼](https://t.me/ll_KINGDOM_ll) 💞**||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{nexichat.name}](https://t.me/{nexichat.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://github.com/AFK-HOTTY/nainxchatbot)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_GRP}).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [费兹先生](https://t.me/Nainsupport) 💞**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 
